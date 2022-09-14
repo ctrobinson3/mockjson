@@ -12,17 +12,81 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -32,17 +96,81 @@
 					"school": "Denver",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "201b",
+							"dd": 1.6,
+							"name": "Back Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -52,17 +180,83 @@
 					"school": "Loveland",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							{
+							"order": "first",
+							"number": "301b",
+							"dd": 1.6,
+							"name": "Reverse Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						}
 						}
 					]
 				}
@@ -80,17 +274,81 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -120,17 +378,81 @@
 					"school": "Loveland",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				}
@@ -148,12 +470,46 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -163,12 +519,46 @@
 					"school": "Pueblo",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -178,12 +568,46 @@
 					"school": "Loveland",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				}
@@ -201,17 +625,81 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -221,17 +709,81 @@
 					"school": "South Dakota",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				},
@@ -241,17 +793,81 @@
 					"school": "New York",
 					"dives": [
 						{
-							"first": "103b",
-							"second": "105b",
-							"third": "401b",
-							"fourth": "403b",
-							"fifth": "5134d",
-							"sixth": "201c",
-							"seventh": "203c",
-							"eighth": "301c",
-							"ninth": "305c",
-							"tenth": "5233d",
-							"eleventh": "405c"
+							"order": "first",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},						
+						{
+							"order": "second",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "third",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fourth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "fifth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "sixth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "seventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eighth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "ninth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "tenth",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
+						},
+						{
+							"order": "eleventh",
+							"number": "101b",
+							"dd": 1.3,
+							"name": "Front Dive"
+							"position": "Pike"
 						}
 					]
 				}
